@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Some information about you!
+古月, 前端工程师, 坐标北京 ~
 
-### More Information
+### 更多信息
 
-A place to include any other types of information that you'd like to include about yourself.
+白天使用js, 晚上使用rust ~ (rust小白玩家)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[guyuemonk@163.com](mailto:email@domain.com)
